@@ -18,4 +18,4 @@ Time-lapse imaging of molecular evolution by high-throughput sequencing.
 Quang Nguyen N., Bouvier C.,Henriques A., Lelandais B. and Ducongé F. (2018) unpublished
 ```
 ## Screenshots
-![image](https://github.com/AptaFred/EGE_tree/blob/master/screenshot1.png)
+![image](https://github.com/AptaFred/EGE_tree/blob/master/screenshot1.png)  |  ![image](https://github.com/AptaFred/EGE_tree/blob/master/screenshot2.png)
