@@ -3,7 +3,7 @@
 
 # EGE_Tree
 Méthode to reconstruct an empirical genealogical evolutionary (EGE) tree of an aptamer family based on high-throughput sequencing data.
-In contrast to classical phylogenetic trees, this tree-diagram represents proliferation and extinction of sequences within a population during rounds of in vitro selection. 
+In contrast to classical phylogenetic trees, this tree-diagram represents proliferation and extinction of sequences within a population during rounds of in vitro selection. This tree was inspired by a diagram published by Charles Darwin in 1859 to explain its his theory of evolution (Darwin, C. (1859) On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life. John Murray, London ed.).  
 
 EGE tree can reconstruct the evolution pathways taken during an in vitro selection experiment to result in sequences with better fitness. This tree can be used to study the impact of the selective pressure. More importantly, it can also be used for the identification of better molecules.  
 
