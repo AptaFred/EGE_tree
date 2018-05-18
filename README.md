@@ -2,9 +2,12 @@
 [![HitCount](http://hits.dwyl.io/AptaFred/EGE_tree.svg)](http://hits.dwyl.io/AptaFred/EGE_tree)
 
 # EGE_Tree
-Méthode to reconstruct an empirical genealogical evolutionary (EGE) tree of an aptamer family based on high-throughput sequencing date.
-In contrast to classical phylogenetic trees, this tree-diagram represents proliferation and extinction of sequences within a population during rounds of in vitro selection.
-The method can be performed following the instructions of a readme text and using several files that can be downloaded.
+Méthode to reconstruct an empirical genealogical evolutionary (EGE) tree of an aptamer family based on high-throughput sequencing data.
+In contrast to classical phylogenetic trees, this tree-diagram represents proliferation and extinction of sequences within a population during rounds of in vitro selection. 
+
+EGE tree can reconstruct the evolution pathways taken during an in vitro selection experiment to result in sequences with better fitness. This tree can be used to study the impact of the selective pressure. More importantly, it can also be used for the identification of better molecules.  
+
+The method can be performed following the instructions of a readme text and using several files that can be found in the compressed Archive_EGE.zip
 
 If you have any issues or recommendations, please feel free to open a [ticket](https://github.com/AptaFred/EGE_tree/issues).
 
