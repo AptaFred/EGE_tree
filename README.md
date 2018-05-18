@@ -1,3 +1,4 @@
+[![Github All Releases](https://img.shields.io/github/downloads/AptaFred/EGE_tree/total.svg)](https://github.com/AptaFred/EGE_tree/releases)
 [![HitCount](http://hits.dwyl.io/AptaFred/EGE_tree.svg)](http://hits.dwyl.io/AptaFred/EGE_tree)
 
 # EGE_Tree
