@@ -18,7 +18,7 @@ Download the archiveEGE.zip that contains all the files necessary to build the t
 If you use an EGE tree in your work, please cite it as
 ```
 Time-lapse imaging of molecular evolution by high-throughput sequencing. 
-Quang Nguyen N., Bouvier C.,Henriques A., Lelandais B. and Ducongé F. (2018) unpublished
+Quang Nguyen N., Bouvier C.,Henriques A., Lelandais B. and Ducongé F. (2018) Nucleic Acids Research
 ```
 ## Screenshots
 ![image](https://github.com/AptaFred/EGE_tree/blob/master/screenshot1.png)  |  ![image](https://github.com/AptaFred/EGE_tree/blob/master/screenshot2.png)
